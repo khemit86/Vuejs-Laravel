@@ -1,5 +1,5 @@
 <?php
-
+123
 namespace App;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
